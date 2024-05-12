@@ -37,10 +37,10 @@ Revenue Analysis: Displays revenue distribution across states and regions.
 Marketing Spend Analysis: Analyzes the relationship between marketing spend and revenue.
 
 File Structure
-
-├── startup_expansion_analysis.pbix   # Power BI report file
-├── startup-expansion.xlsx            # Input data file (Excel)
-└── README.md                         # Project README file
+startup_expansion_analysis.ipyn
+startup_expansion_analysis.pbix   
+startup-expansion.xlsx            
+ README.md                    
 The dataset used from kaggle and this is the link:
 https://www.kaggle.com/datasets/mohamedkouchaoui/startupexpansion
 
@@ -81,11 +81,7 @@ Conducts exploratory data analysis (EDA) including descriptive statistics, visua
 
 Saves the modified DataFrame to startup_modified.csv for further analysis.
 
-File Structure
 
-├── startup_expansion_analysis.py     # Main Python script
-├── startup-expansion.xlsx            # Input data file (Excel)
-└── README.md                         # Project README file
 Libraries Used
 pandas: Data manipulation and analysis.
 matplotlib: Data visualization.
