@@ -1,4 +1,4 @@
-This Startup Expansion Analytics project with power pi Dashboard 
+# This Startup Expansion Analytics project with power pi Dashboard 
 Startup Expansion Analysis with Power BI
 This project involves analyzing startup expansion data using Power BI. The provided Power BI report connects to an Excel dataset (startup-expansion.xlsx), visualizes key metrics, and provides insights into startup growth across different regions and states.
 
